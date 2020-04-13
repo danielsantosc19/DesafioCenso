@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DesafioMundipagg</name>
+    </assembly>
+    <members>
+        <member name="T:DesafioMundipagg.Controllers.CensoController">
+            <summary>
+            Api para cadastramento e pesquisa de censo demografico
+            </summary>
+        </member>
+        <member name="T:DesafioMundipagg.Controllers.PessoaController">
+            <summary>
+            Api para cadastramento e pesquisa de censo demografico
+            </summary>
+        </member>
+        <member name="F:DesafioMundipagg.Model.Pessoa.Escolaridades.Nenhuma">
+            <summary>
+            Nenhuma
+            </summary>
+        </member>
+        <member name="F:DesafioMundipagg.Model.Pessoa.Escolaridades.Fundamental">
+            <summary>
+            Fundamental
+            </summary>
+        </member>
+        <member name="F:DesafioMundipagg.Model.Pessoa.Escolaridades.Medio">
+            <summary>
+            Medio
+            </summary>
+        </member>
+        <member name="F:DesafioMundipagg.Model.Pessoa.Escolaridades.Superior">
+            <summary>
+            Superior
+            </summary>
+        </member>
+        <member name="F:DesafioMundipagg.Model.Pessoa.Escolaridades.PosGraducao">
+            <summary>
+            PosGraducao
+            </summary>
+        </member>
+        <member name="F:DesafioMundipagg.Model.Pessoa.Escolaridades.Mestrado">
+            <summary>
+            Mestrado
+            </summary>
+        </member>
+        <member name="F:DesafioMundipagg.Model.Pessoa.Escolaridades.Doutorado">
+            <summary>
+            Doutorado
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -5,7 +5,7 @@ FROM mcr.microsoft.com/dotnet/core/sdk:2.2 as build-env
 WORKDIR /app
 
 COPY *.csproj ./
-RUN dotnet restore
+
 
 COPY . ./
 RUN dotnet publish -c release -o out

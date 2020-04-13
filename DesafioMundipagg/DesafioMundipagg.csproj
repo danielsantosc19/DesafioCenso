@@ -31,4 +31,10 @@
     <Folder Include="Services\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update=".dockerignore - Cópia">
+      <DependentUpon>Dockerfile - Cópia</DependentUpon>
+    </None>
+  </ItemGroup>
+
 </Project>
